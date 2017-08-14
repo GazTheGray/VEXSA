@@ -1,0 +1,1 @@
+<?= json_encode($vehicle_models); ?>

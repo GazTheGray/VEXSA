@@ -1,0 +1,7 @@
+.dzcontainter {
+    background: white none repeat scroll 0 0;
+    border: 2px dashed #0087f7;
+    border-radius: 5px;
+    min-height: 150px;
+    padding: 10px;
+}
